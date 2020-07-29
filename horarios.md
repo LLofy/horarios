@@ -57,7 +57,7 @@
 	            <td bgcolor="lightpink" color="#FFFFFFF"> 
 	 	    <font color="black" size="3"><b>Eletromagnetismo <br /> CTC/CTC203</td>
                 </tr>
-		<tr>
+		<tr> 
 		    <td>11:00-11:50</td>
 	            <td bgcolor="khaki" color="#FFFFFFF"> 
 	 	    <font color="" size="3"><b>Circuitos A<br /> CTC/CTC204</td>
